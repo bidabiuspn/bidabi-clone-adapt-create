@@ -71,8 +71,9 @@ Dans le terminal intégré de VS Code :
 ```
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 pip install scikit-learn seaborn matplotlib umap-learn
-Ces bibliothèques sont nécessaires pour l’entraînement, l’évaluation et les visualisations (t‑SNE, UMAP, ROC, etc.).
 ```
+Ces bibliothèques sont nécessaires pour l’entraînement, l’évaluation et les visualisations (t‑SNE, UMAP, ROC, etc.).
+
 ###🧪 3. Vérifier que VS Code utilise le bon interpréteur Python
 Dans VS Code :
 
