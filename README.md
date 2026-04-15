@@ -52,7 +52,7 @@ Ce document décrit les étapes nécessaires pour exécuter le projet de classif
 ### 🗂️ 1. Préparer la structure du projet
 Le projet doit contenir les dossiers suivants :
 
-Code
+```
 project-root/
     src/
         classificator.py
@@ -61,6 +61,7 @@ project-root/
         class02/
         class03/
     .venv/
+```
 Le dossier data/ contient les sous‑dossiers correspondant aux classes.
 
 Chaque sous‑dossier contient des images .jpg, .jpeg ou .png.
