@@ -74,7 +74,7 @@ pip install scikit-learn seaborn matplotlib umap-learn
 ```
 Ces bibliothèques sont nécessaires pour l’entraînement, l’évaluation et les visualisations (t‑SNE, UMAP, ROC, etc.).
 
-###🧪 3. Vérifier que VS Code utilise le bon interpréteur Python
+### 🧪 3. Vérifier que VS Code utilise le bon interpréteur Python
 Dans VS Code :
 
 Ouvrir la palette de commandes : Ctrl+Shift+P
@@ -86,7 +86,7 @@ Sélectionner l’environnement :
 ```
 .venv/bin/python
 ```
-▶️ 4. Lancer le script d’entraînement
+### ▶️ 4. Lancer le script d’entraînement
 Depuis la racine du projet :
 
 ```
@@ -109,7 +109,7 @@ Train: 5, Val: 1, Test: 3
 Utilisation de l'appareil: cpu
 Epoch 1/20 — Train Loss: ...
 ```
-🧹 5. Résolution des erreurs fréquentes
+### 🧹 5. Résolution des erreurs fréquentes
 ```
 ❗ « FileNotFoundError: ./data/ »
 ```
